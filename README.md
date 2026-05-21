@@ -14,19 +14,6 @@ Showcase products in immersive 3D scenes, scroll-animated models, and pinned sec
 
 # ⚙️ Tech Stack
 
-## 🐰 CodeRabbit
-CodeRabbit is an AI-powered code review tool that integrates with IDEs like VS Code and Git platforms such as GitHub and GitLab.
-
-### Features:
-- Real-time context-aware feedback
-- Pull request analysis
-- Security vulnerability detection
-- Coding standards enforcement
-- Adaptive team-based learning
-- Productivity enhancement workflows
-
----
-
 ## 🚀 GSAP
 GSAP is a powerful JavaScript animation library used in this project to create dynamic, scroll-driven visuals.
 
